@@ -1,0 +1,2 @@
+defmodule ExGsuite do
+end
